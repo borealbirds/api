@@ -383,18 +383,6 @@
 "BTNW","Setophaga virens","Black-throated Green Warbler","12 Boreal Hardwood Transition",3.47,3.37,3.57,0.093,0.0902,0.0957,0.373
 "BTNW","Setophaga virens","Black-throated Green Warbler","13 Lower Great Lakes/St. Lawrence Plain",0.487,0.469,0.513,0.0478,0.046,0.0504,0.102
 "BTNW","Setophaga virens","Black-throated Green Warbler","14 Atlantic Northern Forest",3.09,3,3.23,0.158,0.154,0.166,0.195
-"BWWA","Vermivora cyanoptera","Blue-winged Warbler","Canada",0.0633,0.0342,0.092,1e-04,1e-04,1e-04,6.21
-"BWWA","Vermivora cyanoptera","Blue-winged Warbler","4 Northwestern Interior Forest",2e-04,0,5e-04,0,0,0,0.546
-"BWWA","Vermivora cyanoptera","Blue-winged Warbler","5 Northern Pacific Rainforest",0,0,0,0,0,0,0.136
-"BWWA","Vermivora cyanoptera","Blue-winged Warbler","6 Boreal Taiga Plains",0.0159,0.0053,0.034,1e-04,0,3e-04,1.18
-"BWWA","Vermivora cyanoptera","Blue-winged Warbler","7 Taiga Shield & Hudson Plains",0.0011,3e-04,0.0034,0,0,0,1.49
-"BWWA","Vermivora cyanoptera","Blue-winged Warbler","8 Boreal Softwood Shield",0.0175,0.0071,0.0337,1e-04,1e-04,3e-04,1.32
-"BWWA","Vermivora cyanoptera","Blue-winged Warbler","9 Great Basin",0,0,0,0,0,0,0.0552
-"BWWA","Vermivora cyanoptera","Blue-winged Warbler","10 Northern Rockies",4e-04,1e-04,0.0013,0,0,0,0.372
-"BWWA","Vermivora cyanoptera","Blue-winged Warbler","11 Prairie Potholes",0.0013,3e-04,0.0033,0,0,1e-04,0.444
-"BWWA","Vermivora cyanoptera","Blue-winged Warbler","12 Boreal Hardwood Transition",0.015,0.0081,0.0217,4e-04,2e-04,6e-04,0.373
-"BWWA","Vermivora cyanoptera","Blue-winged Warbler","13 Lower Great Lakes/St. Lawrence Plain",0.0062,0.0038,0.0093,6e-04,4e-04,9e-04,0.102
-"BWWA","Vermivora cyanoptera","Blue-winged Warbler","14 Atlantic Northern Forest",0.0026,9e-04,0.005,1e-04,0,3e-04,0.195
 "CAWA","Cardellina canadensis","Canada Warbler","Canada",4.81,4.59,5.21,0.0077,0.0074,0.0084,6.21
 "CAWA","Cardellina canadensis","Canada Warbler","4 Northwestern Interior Forest",0.309,0.207,0.401,0.0057,0.0038,0.0073,0.546
 "CAWA","Cardellina canadensis","Canada Warbler","5 Northern Pacific Rainforest",0.0014,9e-04,0.0023,1e-04,1e-04,2e-04,0.136
@@ -563,18 +551,6 @@
 "DUFL","Empidonax oberholseri","Dusky Flycatcher","12 Boreal Hardwood Transition",0.0014,6e-04,0.0024,0,0,1e-04,0.373
 "DUFL","Empidonax oberholseri","Dusky Flycatcher","13 Lower Great Lakes/St. Lawrence Plain",0,0,0,0,0,0,0.102
 "DUFL","Empidonax oberholseri","Dusky Flycatcher","14 Atlantic Northern Forest",0,0,0,0,0,0,0.195
-"DUNL","Calidris alpina","Dunlin","Canada",0.629,0.388,1.04,0.001,6e-04,0.0017,6.21
-"DUNL","Calidris alpina","Dunlin","4 Northwestern Interior Forest",0,0,0,0,0,0,0.546
-"DUNL","Calidris alpina","Dunlin","5 Northern Pacific Rainforest",0,0,0,0,0,0,0.136
-"DUNL","Calidris alpina","Dunlin","6 Boreal Taiga Plains",0.0038,7e-04,0.0089,0,0,1e-04,1.18
-"DUNL","Calidris alpina","Dunlin","7 Taiga Shield & Hudson Plains",0.624,0.372,1.01,0.0042,0.0025,0.0068,1.49
-"DUNL","Calidris alpina","Dunlin","8 Boreal Softwood Shield",0.0041,8e-04,0.0136,0,0,1e-04,1.32
-"DUNL","Calidris alpina","Dunlin","9 Great Basin",0,0,0,0,0,0,0.0552
-"DUNL","Calidris alpina","Dunlin","10 Northern Rockies",0,0,0,0,0,0,0.372
-"DUNL","Calidris alpina","Dunlin","11 Prairie Potholes",0,0,0,0,0,0,0.444
-"DUNL","Calidris alpina","Dunlin","12 Boreal Hardwood Transition",0,0,0,0,0,0,0.373
-"DUNL","Calidris alpina","Dunlin","13 Lower Great Lakes/St. Lawrence Plain",0,0,0,0,0,0,0.102
-"DUNL","Calidris alpina","Dunlin","14 Atlantic Northern Forest",0,0,0,0,0,0,0.195
 "EABL","Sialia sialis","Eastern Bluebird","Canada",2.21,2.05,2.59,0.0036,0.0033,0.0042,6.21
 "EABL","Sialia sialis","Eastern Bluebird","4 Northwestern Interior Forest",0.0026,4e-04,0.0059,0,0,1e-04,0.546
 "EABL","Sialia sialis","Eastern Bluebird","5 Northern Pacific Rainforest",0,0,0,0,0,0,0.136
@@ -1223,18 +1199,6 @@
 "RBNU","Sitta canadensis","Red-breasted Nuthatch","12 Boreal Hardwood Transition",0.69,0.611,0.794,0.0185,0.0164,0.0213,0.373
 "RBNU","Sitta canadensis","Red-breasted Nuthatch","13 Lower Great Lakes/St. Lawrence Plain",0.19,0.166,0.229,0.0187,0.0163,0.0225,0.102
 "RBNU","Sitta canadensis","Red-breasted Nuthatch","14 Atlantic Northern Forest",0.452,0.425,0.501,0.0232,0.0218,0.0257,0.195
-"RBWO","Melanerpes carolinus","Red-bellied Woodpecker","Canada",0.21,0.167,0.246,3e-04,3e-04,4e-04,6.21
-"RBWO","Melanerpes carolinus","Red-bellied Woodpecker","4 Northwestern Interior Forest",4e-04,0,0.0011,0,0,0,0.546
-"RBWO","Melanerpes carolinus","Red-bellied Woodpecker","5 Northern Pacific Rainforest",9e-04,4e-04,0.0014,1e-04,0,1e-04,0.136
-"RBWO","Melanerpes carolinus","Red-bellied Woodpecker","6 Boreal Taiga Plains",0.0062,0.0041,0.0084,1e-04,0,1e-04,1.18
-"RBWO","Melanerpes carolinus","Red-bellied Woodpecker","7 Taiga Shield & Hudson Plains",0.0088,0.0056,0.0119,1e-04,0,1e-04,1.49
-"RBWO","Melanerpes carolinus","Red-bellied Woodpecker","8 Boreal Softwood Shield",0.0374,0.0296,0.0465,3e-04,2e-04,4e-04,1.32
-"RBWO","Melanerpes carolinus","Red-bellied Woodpecker","9 Great Basin",0.0018,0.001,0.0026,3e-04,2e-04,5e-04,0.0552
-"RBWO","Melanerpes carolinus","Red-bellied Woodpecker","10 Northern Rockies",0.0039,0.0027,0.0051,1e-04,1e-04,1e-04,0.372
-"RBWO","Melanerpes carolinus","Red-bellied Woodpecker","11 Prairie Potholes",0.0635,0.0508,0.0736,0.0014,0.0011,0.0017,0.444
-"RBWO","Melanerpes carolinus","Red-bellied Woodpecker","12 Boreal Hardwood Transition",0.0458,0.0316,0.0555,0.0012,8e-04,0.0015,0.373
-"RBWO","Melanerpes carolinus","Red-bellied Woodpecker","13 Lower Great Lakes/St. Lawrence Plain",2e-04,1e-04,2e-04,0,0,0,0.102
-"RBWO","Melanerpes carolinus","Red-bellied Woodpecker","14 Atlantic Northern Forest",0.0414,0.0325,0.0509,0.0021,0.0017,0.0026,0.195
 "RCKI","Regulus calendula","Ruby-crowned Kinglet","Canada",85.6,83.1,87.8,0.138,0.134,0.141,6.21
 "RCKI","Regulus calendula","Ruby-crowned Kinglet","4 Northwestern Interior Forest",9.61,9.27,10.1,0.176,0.17,0.185,0.546
 "RCKI","Regulus calendula","Ruby-crowned Kinglet","5 Northern Pacific Rainforest",2.24,2.18,2.31,0.165,0.16,0.17,0.136
@@ -1271,18 +1235,6 @@
 "REVI","Vireo olivaceus","Red-eyed Vireo","12 Boreal Hardwood Transition",1.56,1.44,1.66,0.0419,0.0385,0.0446,0.373
 "REVI","Vireo olivaceus","Red-eyed Vireo","13 Lower Great Lakes/St. Lawrence Plain",0.285,0.236,0.315,0.028,0.0232,0.031,0.102
 "REVI","Vireo olivaceus","Red-eyed Vireo","14 Atlantic Northern Forest",2.9,2.8,3.41,0.149,0.144,0.175,0.195
-"RHWO","Melanerpes erythrocephalus","Red-headed Woodpecker","Canada",0.303,0.238,0.364,5e-04,4e-04,6e-04,6.21
-"RHWO","Melanerpes erythrocephalus","Red-headed Woodpecker","4 Northwestern Interior Forest",0.0109,0.0048,0.0176,2e-04,1e-04,3e-04,0.546
-"RHWO","Melanerpes erythrocephalus","Red-headed Woodpecker","5 Northern Pacific Rainforest",0.007,0.0052,0.0087,5e-04,4e-04,6e-04,0.136
-"RHWO","Melanerpes erythrocephalus","Red-headed Woodpecker","6 Boreal Taiga Plains",0.0505,0.0328,0.0642,4e-04,3e-04,5e-04,1.18
-"RHWO","Melanerpes erythrocephalus","Red-headed Woodpecker","7 Taiga Shield & Hudson Plains",0.0729,0.049,0.093,5e-04,3e-04,6e-04,1.49
-"RHWO","Melanerpes erythrocephalus","Red-headed Woodpecker","8 Boreal Softwood Shield",0.0846,0.0685,0.105,6e-04,5e-04,8e-04,1.32
-"RHWO","Melanerpes erythrocephalus","Red-headed Woodpecker","9 Great Basin",0.0042,0.0028,0.0056,8e-04,5e-04,0.001,0.0552
-"RHWO","Melanerpes erythrocephalus","Red-headed Woodpecker","10 Northern Rockies",0.0205,0.0153,0.0267,6e-04,4e-04,7e-04,0.372
-"RHWO","Melanerpes erythrocephalus","Red-headed Woodpecker","11 Prairie Potholes",0.0314,0.02,0.0417,7e-04,5e-04,9e-04,0.444
-"RHWO","Melanerpes erythrocephalus","Red-headed Woodpecker","12 Boreal Hardwood Transition",0.0066,0.0029,0.0088,2e-04,1e-04,2e-04,0.373
-"RHWO","Melanerpes erythrocephalus","Red-headed Woodpecker","13 Lower Great Lakes/St. Lawrence Plain",0,0,0,0,0,0,0.102
-"RHWO","Melanerpes erythrocephalus","Red-headed Woodpecker","14 Atlantic Northern Forest",0.0129,0.0075,0.0188,7e-04,4e-04,0.001,0.195
 "ROPI","Columba livia","Rock Pigeon","Canada",10.3,9.34,11.4,0.0166,0.015,0.0183,6.21
 "ROPI","Columba livia","Rock Pigeon","4 Northwestern Interior Forest",0.183,0.156,0.222,0.0034,0.0029,0.0041,0.546
 "ROPI","Columba livia","Rock Pigeon","5 Northern Pacific Rainforest",0.195,0.179,0.21,0.0143,0.0132,0.0154,0.136
@@ -1295,18 +1247,6 @@
 "ROPI","Columba livia","Rock Pigeon","12 Boreal Hardwood Transition",0.638,0.453,0.859,0.0171,0.0121,0.023,0.373
 "ROPI","Columba livia","Rock Pigeon","13 Lower Great Lakes/St. Lawrence Plain",0.0032,0.0023,0.005,3e-04,2e-04,5e-04,0.102
 "ROPI","Columba livia","Rock Pigeon","14 Atlantic Northern Forest",0.919,0.767,1.17,0.0471,0.0394,0.0602,0.195
-"ROSA","Calidris ptilocnemis","Rock Sandpiper","Canada",0,0,0,0,0,0,6.21
-"ROSA","Calidris ptilocnemis","Rock Sandpiper","4 Northwestern Interior Forest",0,0,0,0,0,0,0.546
-"ROSA","Calidris ptilocnemis","Rock Sandpiper","5 Northern Pacific Rainforest",0,0,0,0,0,0,0.136
-"ROSA","Calidris ptilocnemis","Rock Sandpiper","6 Boreal Taiga Plains",0,0,0,0,0,0,1.18
-"ROSA","Calidris ptilocnemis","Rock Sandpiper","7 Taiga Shield & Hudson Plains",0,0,0,0,0,0,1.49
-"ROSA","Calidris ptilocnemis","Rock Sandpiper","8 Boreal Softwood Shield",0,0,0,0,0,0,1.32
-"ROSA","Calidris ptilocnemis","Rock Sandpiper","9 Great Basin",0,0,0,0,0,0,0.0552
-"ROSA","Calidris ptilocnemis","Rock Sandpiper","10 Northern Rockies",0,0,0,0,0,0,0.372
-"ROSA","Calidris ptilocnemis","Rock Sandpiper","11 Prairie Potholes",0,0,0,0,0,0,0.444
-"ROSA","Calidris ptilocnemis","Rock Sandpiper","12 Boreal Hardwood Transition",0,0,0,0,0,0,0.373
-"ROSA","Calidris ptilocnemis","Rock Sandpiper","13 Lower Great Lakes/St. Lawrence Plain",0,0,0,0,0,0,0.102
-"ROSA","Calidris ptilocnemis","Rock Sandpiper","14 Atlantic Northern Forest",0,0,0,0,0,0,0.195
 "RTHU","Archilochus colubris","Ruby-throated Hummingbird","Canada",16,14.8,16.7,0.0257,0.0239,0.0269,6.21
 "RTHU","Archilochus colubris","Ruby-throated Hummingbird","4 Northwestern Interior Forest",0.198,0.14,0.317,0.0036,0.0026,0.0058,0.546
 "RTHU","Archilochus colubris","Ruby-throated Hummingbird","5 Northern Pacific Rainforest",0.365,0.338,0.387,0.0268,0.0248,0.0284,0.136
@@ -1427,18 +1367,6 @@
 "SOSP","Melospiza melodia","Song Sparrow","12 Boreal Hardwood Transition",2.74,2.49,3.31,0.0733,0.0668,0.0888,0.373
 "SOSP","Melospiza melodia","Song Sparrow","13 Lower Great Lakes/St. Lawrence Plain",0.0274,0.021,0.0387,0.0027,0.0021,0.0038,0.102
 "SOSP","Melospiza melodia","Song Sparrow","14 Atlantic Northern Forest",4.92,4.78,5.95,0.253,0.245,0.305,0.195
-"SPGR","Falcipennis canadensis","Spruce Grouse","Canada",0.405,0.272,0.706,7e-04,4e-04,0.0011,6.21
-"SPGR","Falcipennis canadensis","Spruce Grouse","4 Northwestern Interior Forest",0.0686,0.0349,0.12,0.0013,6e-04,0.0022,0.546
-"SPGR","Falcipennis canadensis","Spruce Grouse","5 Northern Pacific Rainforest",0.0089,0.0041,0.0159,7e-04,3e-04,0.0012,0.136
-"SPGR","Falcipennis canadensis","Spruce Grouse","6 Boreal Taiga Plains",0.103,0.056,0.185,9e-04,5e-04,0.0016,1.18
-"SPGR","Falcipennis canadensis","Spruce Grouse","7 Taiga Shield & Hudson Plains",0.106,0.0483,0.202,7e-04,3e-04,0.0014,1.49
-"SPGR","Falcipennis canadensis","Spruce Grouse","8 Boreal Softwood Shield",0.054,0.0262,0.0818,4e-04,2e-04,6e-04,1.32
-"SPGR","Falcipennis canadensis","Spruce Grouse","9 Great Basin",9e-04,5e-04,0.0021,2e-04,1e-04,4e-04,0.0552
-"SPGR","Falcipennis canadensis","Spruce Grouse","10 Northern Rockies",0.0217,0.0096,0.0378,6e-04,3e-04,0.001,0.372
-"SPGR","Falcipennis canadensis","Spruce Grouse","11 Prairie Potholes",0.0081,0.0056,0.014,2e-04,1e-04,3e-04,0.444
-"SPGR","Falcipennis canadensis","Spruce Grouse","12 Boreal Hardwood Transition",0.0298,0.0111,0.117,8e-04,3e-04,0.0031,0.373
-"SPGR","Falcipennis canadensis","Spruce Grouse","13 Lower Great Lakes/St. Lawrence Plain",0.0108,0.0034,0.0358,0.0011,3e-04,0.0035,0.102
-"SPGR","Falcipennis canadensis","Spruce Grouse","14 Atlantic Northern Forest",0.0045,0.0025,0.0089,2e-04,1e-04,5e-04,0.195
 "SPSA","Actitis macularius","Spotted Sandpiper","Canada",2.84,2.62,3.18,0.0046,0.0042,0.0051,6.21
 "SPSA","Actitis macularius","Spotted Sandpiper","4 Northwestern Interior Forest",0.377,0.31,0.438,0.0069,0.0057,0.008,0.546
 "SPSA","Actitis macularius","Spotted Sandpiper","5 Northern Pacific Rainforest",0.057,0.0528,0.065,0.0042,0.0039,0.0048,0.136
@@ -1655,18 +1583,6 @@
 "WISN","Gallinago delicata","Wilson's Snipe","12 Boreal Hardwood Transition",0.548,0.478,0.652,0.0147,0.0128,0.0175,0.373
 "WISN","Gallinago delicata","Wilson's Snipe","13 Lower Great Lakes/St. Lawrence Plain",0.193,0.168,0.212,0.019,0.0165,0.0208,0.102
 "WISN","Gallinago delicata","Wilson's Snipe","14 Atlantic Northern Forest",0.125,0.118,0.144,0.0064,0.0061,0.0074,0.195
-"WITU","Meleagris gallopavo","Wild Turkey","Canada",0.129,0.105,0.148,2e-04,2e-04,2e-04,6.21
-"WITU","Meleagris gallopavo","Wild Turkey","4 Northwestern Interior Forest",0.0014,8e-04,0.002,0,0,0,0.546
-"WITU","Meleagris gallopavo","Wild Turkey","5 Northern Pacific Rainforest",0.0024,0.0018,0.0029,2e-04,1e-04,2e-04,0.136
-"WITU","Meleagris gallopavo","Wild Turkey","6 Boreal Taiga Plains",0.0132,0.0104,0.0164,1e-04,1e-04,1e-04,1.18
-"WITU","Meleagris gallopavo","Wild Turkey","7 Taiga Shield & Hudson Plains",0.0199,0.0152,0.0245,1e-04,1e-04,2e-04,1.49
-"WITU","Meleagris gallopavo","Wild Turkey","8 Boreal Softwood Shield",0.0394,0.03,0.0458,3e-04,2e-04,3e-04,1.32
-"WITU","Meleagris gallopavo","Wild Turkey","9 Great Basin",0.0031,0.0026,0.0035,6e-04,5e-04,6e-04,0.0552
-"WITU","Meleagris gallopavo","Wild Turkey","10 Northern Rockies",0.007,0.0052,0.0084,2e-04,1e-04,2e-04,0.372
-"WITU","Meleagris gallopavo","Wild Turkey","11 Prairie Potholes",0.0255,0.0218,0.0298,6e-04,5e-04,7e-04,0.444
-"WITU","Meleagris gallopavo","Wild Turkey","12 Boreal Hardwood Transition",0.0059,0.0046,0.0068,2e-04,1e-04,2e-04,0.373
-"WITU","Meleagris gallopavo","Wild Turkey","13 Lower Great Lakes/St. Lawrence Plain",0,0,0,0,0,0,0.102
-"WITU","Meleagris gallopavo","Wild Turkey","14 Atlantic Northern Forest",0.0118,0.0103,0.0144,6e-04,5e-04,7e-04,0.195
 "WIWA","Cardellina pusilla","Wilson's Warbler","Canada",30,28.5,32.4,0.0483,0.0459,0.0521,6.21
 "WIWA","Cardellina pusilla","Wilson's Warbler","4 Northwestern Interior Forest",4.93,4.68,5.27,0.0903,0.0858,0.0966,0.546
 "WIWA","Cardellina pusilla","Wilson's Warbler","5 Northern Pacific Rainforest",0.604,0.573,0.633,0.0443,0.0421,0.0465,0.136
@@ -1727,18 +1643,6 @@
 "WWCR","Loxia leucoptera","White-winged Crossbill","12 Boreal Hardwood Transition",6.66,4.05,11.6,0.178,0.108,0.31,0.373
 "WWCR","Loxia leucoptera","White-winged Crossbill","13 Lower Great Lakes/St. Lawrence Plain",1.7,1.4,2.25,0.167,0.138,0.221,0.102
 "WWCR","Loxia leucoptera","White-winged Crossbill","14 Atlantic Northern Forest",0.401,0.252,0.711,0.0206,0.0129,0.0365,0.195
-"YBCU","Coccyzus americanus","Yellow-billed Cuckoo","Canada",0.0729,0.0586,0.0918,1e-04,1e-04,1e-04,6.21
-"YBCU","Coccyzus americanus","Yellow-billed Cuckoo","4 Northwestern Interior Forest",3e-04,0,6e-04,0,0,0,0.546
-"YBCU","Coccyzus americanus","Yellow-billed Cuckoo","5 Northern Pacific Rainforest",0.0011,8e-04,0.0013,1e-04,1e-04,1e-04,0.136
-"YBCU","Coccyzus americanus","Yellow-billed Cuckoo","6 Boreal Taiga Plains",0.0054,0.004,0.0068,0,0,1e-04,1.18
-"YBCU","Coccyzus americanus","Yellow-billed Cuckoo","7 Taiga Shield & Hudson Plains",0.0077,0.0056,0.0097,1e-04,0,1e-04,1.49
-"YBCU","Coccyzus americanus","Yellow-billed Cuckoo","8 Boreal Softwood Shield",0.0213,0.0158,0.0255,2e-04,1e-04,2e-04,1.32
-"YBCU","Coccyzus americanus","Yellow-billed Cuckoo","9 Great Basin",0.0022,0.0017,0.0028,4e-04,3e-04,5e-04,0.0552
-"YBCU","Coccyzus americanus","Yellow-billed Cuckoo","10 Northern Rockies",0.0031,0.0022,0.0037,1e-04,1e-04,1e-04,0.372
-"YBCU","Coccyzus americanus","Yellow-billed Cuckoo","11 Prairie Potholes",0.0189,0.0152,0.0265,4e-04,3e-04,6e-04,0.444
-"YBCU","Coccyzus americanus","Yellow-billed Cuckoo","12 Boreal Hardwood Transition",0.0048,0.0036,0.0061,1e-04,1e-04,2e-04,0.373
-"YBCU","Coccyzus americanus","Yellow-billed Cuckoo","13 Lower Great Lakes/St. Lawrence Plain",0,0,0,0,0,0,0.102
-"YBCU","Coccyzus americanus","Yellow-billed Cuckoo","14 Atlantic Northern Forest",0.009,0.007,0.013,5e-04,4e-04,7e-04,0.195
 "YBFL","Empidonax flaviventris","Yellow-bellied Flycatcher","Canada",22.8,21.8,23.8,0.0366,0.0351,0.0382,6.21
 "YBFL","Empidonax flaviventris","Yellow-bellied Flycatcher","4 Northwestern Interior Forest",2.59,2.42,2.86,0.0475,0.0443,0.0524,0.546
 "YBFL","Empidonax flaviventris","Yellow-bellied Flycatcher","5 Northern Pacific Rainforest",0.557,0.532,0.585,0.0409,0.039,0.0429,0.136

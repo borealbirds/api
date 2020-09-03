@@ -47,11 +47,14 @@ it has the following fields:
 
 ## Validation
 
+Validation metrics for species by region and,
+it has the following fields:
+
 - `id`: AOU code for the species
 - `scientific`: scientific name for the species
 - `english`: common name for the species in English
-- `region`: Bird Conservation Regions or subunits within Canada
-- `prevalence`: number of non-zero counts divided by the number of counts
+- `region`: Canada, Bird Conservation Regions (BCR) or BCR subunits within Canada
+- `prevalence`: number of non-zero counts divided by the number of counts in the region
 - `run_complete`: number of bootstrap runs out of 32 (non-completion is due to lack of detection in the bootstrap sample)
 - `AUC_init`: area under the receiver-operator characteristic (ROC) curve based on the constant density model with QPAD detectability offsets
 - `AUC_final`: area under the receiver-operator characteristic (ROC) curve based on the final density model with QPAD detectability offsets
@@ -60,3 +63,12 @@ it has the following fields:
 - `oprec`: overall precision
 - `oaccu`: overall accuracy
 
+## Variables
+
+List of predictor variables used in the models,
+it has the following fields:
+
+- `variable`: variable name
+- `definition`: definition of the variable
+- `resolution`: spatial resolution where applicable
+- `source`: data source where applicable

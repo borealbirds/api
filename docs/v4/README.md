@@ -47,7 +47,7 @@ it has the following fields:
 
 ## Validation
 
-Validation metrics for species by region and,
+Validation metrics for species by region,
 it has the following fields:
 
 - `id`: AOU code for the species
@@ -68,7 +68,20 @@ it has the following fields:
 List of predictor variables used in the models,
 it has the following fields:
 
-- `variable`: variable name
+- `variable`: predictor variable name
 - `definition`: definition of the variable
 - `resolution`: spatial resolution where applicable
 - `source`: data source where applicable
+
+## Variable importance
+
+Variable importance values for each species/subregion combination, and as averages
+for Canada, based on mean importance values from all the completed bootstrap runs,
+it has the following fields:
+
+- `id`: AOU code for the species
+- `scientific`: scientific name for the species
+- `english`: common name for the species in English
+- `variable`: predictor variable name
+- `region`: Canada, Bird Conservation Regions (BCR) or BCR subunits within Canada
+- `importance`: average importance (0-1) describing how often the variable was selected in trees

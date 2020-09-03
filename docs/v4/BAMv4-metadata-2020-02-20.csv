@@ -1,0 +1,47 @@
+sheet,sheet_description,field,field_description
+species,lists the species for which results are available,id,AOU code for the species
+species,lists the species for which results are available,scientific,scientific name for the species
+species,lists the species for which results are available,english,common name for the species in English
+species,lists the species for which results are available,french,common name for the species in French
+species,lists the species for which results are available,family,family for the species
+variables,list of predictor variables used in the models,variable,predictor variable name
+variables,list of predictor variables used in the models,definition,definition of the variable
+variables,list of predictor variables used in the models,resolution,spatial resolution where applicable
+variables,list of predictor variables used in the models,source,data source where applicable
+importance,"variable importance values for each species/subregion combination, and as averages for Canada, based on mean importance values from all the completed bootstrap run",id,AOU code for the species
+importance,"variable importance values for each species/subregion combination, and as averages for Canada, based on mean importance values from all the completed bootstrap run",scientific,scientific name for the species
+importance,"variable importance values for each species/subregion combination, and as averages for Canada, based on mean importance values from all the completed bootstrap run",english,common name for the species in English
+importance,"variable importance values for each species/subregion combination, and as averages for Canada, based on mean importance values from all the completed bootstrap run",variable,predictor variable name
+importance,"variable importance values for each species/subregion combination, and as averages for Canada, based on mean importance values from all the completed bootstrap run",region,"Canada, Bird Conservation Regions (BCR) or BCR subunits within Canada"
+importance,"variable importance values for each species/subregion combination, and as averages for Canada, based on mean importance values from all the completed bootstrap run",importance,average importance (0-1) describing how often the variable was selected in trees
+validation,validation metrics for species by region,id,AOU code for the species
+validation,validation metrics for species by region,scientific,scientific name for the species
+validation,validation metrics for species by region,english,common name for the species in English
+validation,validation metrics for species by region,region,"Canada, Bird Conservation Regions (BCR) or BCR subunits within Canada"
+validation,validation metrics for species by region,prevalence,number of non-zero counts divided by the number of counts in the region
+validation,validation metrics for species by region,run_complete,number of bootstrap runs out of 32 (non-completion is due to lack of detection in the bootstrap sample)
+validation,validation metrics for species by region,AUC_init,area under the receiver-operator characteristic (ROC) curve based on the constant density model with QPAD detectability offsets
+validation,validation metrics for species by region,AUC_final,area under the receiver-operator characteristic (ROC) curve based on the final density model with QPAD detectability offsets
+validation,validation metrics for species by region,pseudo_R2,deviance based pseudo R^2 assuming Poisson density and based on the final density model with QPAD detectability offsets
+validation,validation metrics for species by region,occc,overall concordance correlation coefficient (OCCC) for agreement between completed bootstrap runs (occc = oprec * oaccu)
+validation,validation metrics for species by region,oprec,overall precision
+validation,validation metrics for species by region,oaccu,overall accuracy
+abundances,species specific abundances (million males) and density estimates (males / ha) by region (density = abundance / area),id,AOU code for the species
+abundances,species specific abundances (million males) and density estimates (males / ha) by region (density = abundance / area),scientific,scientific name for the species
+abundances,species specific abundances (million males) and density estimates (males / ha) by region (density = abundance / area),english,common name for the species in English
+abundances,species specific abundances (million males) and density estimates (males / ha) by region (density = abundance / area),region,"Canada, or Bird Conservation Regions within Canada"
+abundances,species specific abundances (million males) and density estimates (males / ha) by region (density = abundance / area),abundance_estimate,mean abundance estimate
+abundances,species specific abundances (million males) and density estimates (males / ha) by region (density = abundance / area),abundance_lower,5th percentile of bootstrap abundance estimate
+abundances,species specific abundances (million males) and density estimates (males / ha) by region (density = abundance / area),abundance_upper,95th percentile of bootstrap abundance estimate
+abundances,species specific abundances (million males) and density estimates (males / ha) by region (density = abundance / area),density_estimate,mean density estimate
+abundances,species specific abundances (million males) and density estimates (males / ha) by region (density = abundance / area),density_lower,5th percentile of bootstrap density estimate
+abundances,species specific abundances (million males) and density estimates (males / ha) by region (density = abundance / area),density_upper,5th percentile of bootstrap density estimate
+abundances,species specific abundances (million males) and density estimates (males / ha) by region (density = abundance / area),areakmsq,area of region in km^2
+densities,species specific density estimates (males / ha) by region and land cover class,id,AOU code for the species
+densities,species specific density estimates (males / ha) by region and land cover class,scientific,scientific name for the species
+densities,species specific density estimates (males / ha) by region and land cover class,english,common name for the species in English
+densities,species specific density estimates (males / ha) by region and land cover class,region,"Canada, or Bird Conservation Regions within Canada"
+densities,species specific density estimates (males / ha) by region and land cover class,landcover,North Americal land cover classes
+densities,species specific density estimates (males / ha) by region and land cover class,estimate,mean density estimate
+densities,species specific density estimates (males / ha) by region and land cover class,lower,5th percentile of bootstrap density estimate
+densities,species specific density estimates (males / ha) by region and land cover class,upper,95th percentile of bootstrap density estimate

@@ -2839,18 +2839,18 @@
 "YRWA","Setophaga coronata","Yellow-rumped Warbler","8-1 Boreal Softwood Shield, Ontario",13.6,12.9,15,0.346,0.327,0.38,0.395
 "YRWA","Setophaga coronata","Yellow-rumped Warbler","8-2 Boreal Softwood Shield, East",20.8,20.2,21.8,0.44,0.427,0.46,0.473
 "YRWA","Setophaga coronata","Yellow-rumped Warbler","8-3 Boreal Softwood Shield, Newfoundland",6.61,5.47,7.21,0.7,0.579,0.763,0.0945
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada",0.39,0.323,0.446,6e-04,5e-04,7e-04,6.21
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest",0.0139,0.0072,0.0259,3e-04,1e-04,5e-04,0.546
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest",0.0094,0.0077,0.0109,7e-04,6e-04,8e-04,0.136
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains",0.0638,0.0484,0.0803,5e-04,4e-04,7e-04,1.18
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains",0.0948,0.0763,0.115,6e-04,5e-04,8e-04,1.49
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield",0.113,0.0964,0.122,9e-04,7e-04,9e-04,1.32
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin",0.0054,0.0046,0.0061,0.001,8e-04,0.0011,0.0552
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies",0.0275,0.0233,0.0317,7e-04,6e-04,9e-04,0.372
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes",0.0385,0.0332,0.0455,9e-04,7e-04,0.001,0.444
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition",0.0064,0.0052,0.0082,2e-04,1e-04,2e-04,0.373
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain",0,0,0,0,0,0,0.102
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest",0.0149,0.0122,0.0189,8e-04,6e-04,0.001,0.195
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada",0.297,0.216,0.391,5e-04,3e-04,6e-04,6.2
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest",5e-04,1e-04,9e-04,0,0,0,0.546
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest",0,0,0,0,0,0,0.132
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains",0.0491,0.0317,0.0759,4e-04,3e-04,6e-04,1.18
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains",0.0372,0.0022,0.136,3e-04,0,9e-04,1.49
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield",0.0509,0.0326,0.0776,4e-04,2e-04,6e-04,1.31
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin",0,0,0,0,0,0,0.0552
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies",0.0025,0.0016,0.0037,1e-04,0,1e-04,0.372
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes",0.0738,0.0567,0.0925,0.0017,0.0013,0.0021,0.444
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition",0.0398,0.033,0.0463,0.0011,9e-04,0.0012,0.373
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain",0.0119,0.0099,0.0153,0.0012,0.001,0.0015,0.102
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest",0.01,0.0073,0.0134,5e-04,4e-04,7e-04,0.193
 "YTVI","Vireo flavifrons","Yellow-throated Vireo","6-0 Boreal Taiga Plains, South",0.0478,0.0314,0.0747,6e-04,4e-04,0.001,0.756
 "YTVI","Vireo flavifrons","Yellow-throated Vireo","6-1 Boreal Taiga Plains, North",8e-04,2e-04,0.0017,0,0,0,0.428
 "YTVI","Vireo flavifrons","Yellow-throated Vireo","7-0 Taiga Shield & Hudson Plains, West",0.0033,7e-04,0.0063,1e-04,0,1e-04,0.561

@@ -26411,117 +26411,117 @@
 "YRWA","Setophaga coronata","Yellow-rumped Warbler","8-3 Boreal Softwood Shield, Newfoundland","Arctic Shrub",0.603,0.486,0.723
 "YRWA","Setophaga coronata","Yellow-rumped Warbler","8-3 Boreal Softwood Shield, Newfoundland","Wetland",0.682,0.574,0.77
 "YRWA","Setophaga coronata","Yellow-rumped Warbler","8-3 Boreal Softwood Shield, Newfoundland","Cropland",0.747,0.539,1.026
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Conifer",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Taiga Conifer",5e-04,4e-04,7e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Deciduous",6e-04,5e-04,6e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Mixedwood",6e-04,5e-04,7e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Shrub",6e-04,4e-04,7e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Grass",6e-04,5e-04,7e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Arctic Shrub",4e-04,3e-04,6e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Arctic Grass",4e-04,2e-04,6e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Wetland",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Cropland",8e-04,7e-04,9e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Conifer",3e-04,2e-04,6e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Taiga Conifer",2e-04,1e-04,4e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Deciduous",3e-04,1e-04,6e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Mixedwood",2e-04,1e-04,5e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Shrub",2e-04,1e-04,4e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Grass",4e-04,2e-04,6e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Conifer",3e-04,2e-04,4e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Taiga Conifer",2e-04,1e-04,5e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Deciduous",7e-04,6e-04,8e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Mixedwood",6e-04,4e-04,7e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Shrub",2e-04,1e-04,3e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Grass",8e-04,6e-04,0.001
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Arctic Shrub",2e-04,0,8e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Arctic Grass",1e-04,0,5e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Wetland",4e-04,2e-04,8e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","Canada","Cropland",0.0014,0.0011,0.0017
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Conifer",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Taiga Conifer",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Deciduous",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Mixedwood",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Shrub",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Grass",0,0,0
 "YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Arctic Shrub",0,0,0
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Arctic Grass",2e-04,1e-04,3e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Wetland",1e-04,1e-04,3e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Cropland",1e-04,0,3e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Conifer",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Taiga Conifer",2e-04,1e-04,4e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Deciduous",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Mixedwood",7e-04,5e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Shrub",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Grass",6e-04,5e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Arctic Shrub",6e-04,2e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Arctic Grass",6e-04,5e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Wetland",6e-04,5e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Cropland",0.001,8e-04,0.0011
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Conifer",6e-04,4e-04,7e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Taiga Conifer",3e-04,2e-04,5e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Deciduous",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Mixedwood",6e-04,5e-04,7e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Shrub",4e-04,3e-04,6e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Grass",4e-04,3e-04,7e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Arctic Grass",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Wetland",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","4 Northwestern Interior Forest","Cropland",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Conifer",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Taiga Conifer",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Deciduous",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Mixedwood",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Shrub",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Grass",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Arctic Shrub",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Arctic Grass",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Wetland",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","5 Northern Pacific Rainforest","Cropland",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Conifer",4e-04,2e-04,6e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Taiga Conifer",1e-04,0,1e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Deciduous",7e-04,5e-04,0.0011
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Mixedwood",5e-04,3e-04,8e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Shrub",2e-04,1e-04,3e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Grass",3e-04,2e-04,4e-04
 "YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Arctic Shrub",0,0,0
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Arctic Grass",1e-04,1e-04,2e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Wetland",5e-04,4e-04,7e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Cropland",8e-04,7e-04,9e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Conifer",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Taiga Conifer",6e-04,5e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Deciduous",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Mixedwood",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Shrub",6e-04,5e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Grass",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Arctic Shrub",5e-04,3e-04,7e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Arctic Grass",4e-04,3e-04,7e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Wetland",8e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Cropland",8e-04,7e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Conifer",9e-04,7e-04,9e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Taiga Conifer",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Deciduous",9e-04,8e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Mixedwood",9e-04,7e-04,9e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Shrub",9e-04,7e-04,9e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Grass",8e-04,7e-04,9e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Arctic Shrub",9e-04,7e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Arctic Grass",0.0011,9e-04,0.0012
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Wetland",9e-04,7e-04,9e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Cropland",8e-04,6e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Conifer",0.001,8e-04,0.0011
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Deciduous",9e-04,8e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Mixedwood",8e-04,6e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Shrub",0.001,9e-04,0.0012
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Grass",0.001,9e-04,0.0011
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Arctic Grass",0.0011,9e-04,0.0012
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Wetland",5e-04,4e-04,6e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Cropland",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Conifer",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Deciduous",8e-04,6e-04,9e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Mixedwood",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Shrub",8e-04,7e-04,9e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Grass",7e-04,6e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Arctic Grass",8e-04,7e-04,9e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Wetland",6e-04,5e-04,8e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Cropland",8e-04,7e-04,9e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Conifer",8e-04,7e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Deciduous",9e-04,8e-04,0.0011
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Mixedwood",7e-04,6e-04,9e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Shrub",8e-04,7e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Grass",8e-04,7e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Arctic Grass",9e-04,6e-04,0.0013
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Wetland",8e-04,6e-04,0.0011
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Cropland",9e-04,8e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Conifer",3e-04,3e-04,4e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Deciduous",1e-04,1e-04,1e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Mixedwood",1e-04,1e-04,2e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Shrub",4e-04,3e-04,6e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Grass",1e-04,1e-04,2e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Arctic Shrub",0,0,0
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Arctic Grass",0,0,0
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Wetland",4e-04,3e-04,6e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Cropland",2e-04,1e-04,2e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Conifer",0,0,0
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Deciduous",0,0,0
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Mixedwood",0,0,0
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Shrub",0,0,0
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Grass",0,0,0
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Arctic Shrub",0,0,0
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Arctic Grass",0,0,0
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Wetland",0,0,0
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Cropland",0,0,0
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Conifer",8e-04,7e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Deciduous",7e-04,6e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Mixedwood",8e-04,7e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Shrub",5e-04,4e-04,7e-04
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Grass",7e-04,6e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Arctic Shrub",0.001,8e-04,0.0013
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Arctic Grass",9e-04,7e-04,0.0012
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Wetland",8e-04,6e-04,0.001
-"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Cropland",7e-04,5e-04,9e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Arctic Grass",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Wetland",4e-04,2e-04,6e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","6 Boreal Taiga Plains","Cropland",9e-04,7e-04,0.0013
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Conifer",3e-04,0,0.001
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Taiga Conifer",2e-04,0,7e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Deciduous",3e-04,0,0.0013
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Mixedwood",3e-04,0,0.0013
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Shrub",2e-04,0,6e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Grass",2e-04,0,0.001
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Arctic Shrub",2e-04,0,0.001
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Arctic Grass",2e-04,0,7e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Wetland",3e-04,0,0.0012
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","7 Taiga Shield & Hudson Plains","Cropland",4e-04,0,0.001
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Conifer",4e-04,2e-04,6e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Taiga Conifer",6e-04,3e-04,0.001
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Deciduous",3e-04,2e-04,4e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Mixedwood",4e-04,3e-04,5e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Shrub",5e-04,3e-04,8e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Grass",2e-04,1e-04,3e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Arctic Shrub",0,0,2e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Arctic Grass",6e-04,3e-04,0.001
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Wetland",4e-04,3e-04,7e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","8 Boreal Softwood Shield","Cropland",4e-04,3e-04,5e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Conifer",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Deciduous",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Mixedwood",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Shrub",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Grass",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Arctic Grass",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Wetland",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","9 Great Basin","Cropland",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Conifer",0,0,1e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Deciduous",1e-04,0,1e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Mixedwood",2e-04,1e-04,4e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Shrub",0,0,1e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Grass",3e-04,2e-04,4e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Arctic Grass",2e-04,1e-04,3e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Wetland",0,0,0
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","10 Northern Rockies","Cropland",7e-04,4e-04,9e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Conifer",0.0013,0.0011,0.0017
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Deciduous",0.002,0.0017,0.0024
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Mixedwood",0.0017,0.0014,0.0021
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Shrub",0.0019,0.0016,0.0023
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Grass",0.0017,0.0013,0.0021
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Arctic Grass",0.0012,9e-04,0.0016
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Wetland",0.0015,0.0012,0.0019
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","11 Prairie Potholes","Cropland",0.0016,0.0013,0.0021
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Conifer",0.001,7e-04,0.0012
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Deciduous",0.0012,0.001,0.0013
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Mixedwood",0.0011,9e-04,0.0012
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Shrub",0.001,8e-04,0.0012
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Grass",0.0012,9e-04,0.0013
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Arctic Shrub",0.0011,9e-04,0.0013
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Arctic Grass",0.0012,0.001,0.0016
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Wetland",0.0011,9e-04,0.0013
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","12 Boreal Hardwood Transition","Cropland",0.0014,0.0012,0.0016
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Conifer",9e-04,8e-04,0.0012
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Deciduous",0.0013,0.001,0.0017
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Mixedwood",0.0012,0.001,0.0014
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Shrub",0.001,9e-04,0.0013
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Grass",0.0012,0.001,0.0015
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Arctic Shrub",0.0012,0.001,0.0015
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Arctic Grass",0.0011,0.001,0.0014
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Wetland",0.001,8e-04,0.0012
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","13 Lower Great Lakes/St. Lawrence Plain","Cropland",0.0011,9e-04,0.0014
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Conifer",5e-04,4e-04,7e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Deciduous",5e-04,4e-04,7e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Mixedwood",5e-04,4e-04,7e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Shrub",7e-04,5e-04,8e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Grass",5e-04,4e-04,7e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Arctic Shrub",5e-04,4e-04,7e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Arctic Grass",5e-04,3e-04,7e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Wetland",5e-04,3e-04,7e-04
+"YTVI","Vireo flavifrons","Yellow-throated Vireo","14 Atlantic Northern Forest","Cropland",5e-04,4e-04,7e-04
 "YTVI","Vireo flavifrons","Yellow-throated Vireo","6-0 Boreal Taiga Plains, South","Conifer",5e-04,2e-04,8e-04
 "YTVI","Vireo flavifrons","Yellow-throated Vireo","6-0 Boreal Taiga Plains, South","Taiga Conifer",5e-04,3e-04,8e-04
 "YTVI","Vireo flavifrons","Yellow-throated Vireo","6-0 Boreal Taiga Plains, South","Deciduous",8e-04,6e-04,0.0011
